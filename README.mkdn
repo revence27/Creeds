@@ -1,0 +1,12 @@
+Creeds
+======
+
+The centrepiece is an evolving creeds.xml which is a commentary on the creeds, written in an XML format that allows this collections of creeds and commentaries about them useful for generating references to particular doctrinal points. Essentially, in this repository and format, I integrate the creeds into the Bible, not as new books—or, at least, not mere as new books—but rather each creed as:
+
+  1.  Supported with Biblical references for each “point” affirmed by the creed.
+  2.  Available as a book with chapter and line references.
+  3.  Accompanied by a commentary on each of the references in the context of the point affirmed by the creed.
+  4.  The section titles of the commentaries should be utilisable as explanatory footnotes on the Biblical references therein, which will be used to link the verse and creed/commentary in a printed Bible.
+
+The best form of this XML file is something I will discover as I deal with the Apostles’ Creed, Nicene Creed, and others.
+The reasoning is that all true teaching runs back and forth between the creeds at one end and the Scriptures at the other. That is a good vibration. :o)
