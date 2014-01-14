@@ -1,0 +1,59 @@
+<?xml charset="utf-8" version="1.0" ?>
+<!--
+     Structured XML for creeds. Enables referencing particular parts of Scripture from specific points in the creeds. Enables a commentary to be generated from this and automatically typeset into a Bible for printing. A commentary-paired Bible is what I am hoping to manage, with the commentary being creedal in nature (based on creeds, generating creeds).
+-->
+<creed name="Apostles’ Creed">
+  <section>
+    <line>
+      <point><text>I believe</text><comments title="By Faith">[]</comments></point>
+      <point><text>in God</text><comments title="God with a face: Jesus Christ">[Isaiah 44:6; Isaiah 45:5]</comments></point>
+      <point><text>the Father,</text><comments title="The Christian has been adopted and is now a beloved child to God">[]</comments></point>
+      <point><text>Almighty, Maker of heaven and earth</text><comments title="Natural theology as proto-Mosaic theology, and Mosaic theology as proto-Christian">[Genesis 1:1; John 1:1-3; Acts 14:15]</comments></point>
+    </line>
+    <line>
+      <point><text>And in Jesus Christ,</text><comments title="Jesus Christ, the name of the saviour">[Luke 2:11; John 20:28]</comments></point>
+      <point><text>his only-begotten Son,</text><comments title="The eternal relationship of faith, hope, and love in the Eternal Triune God">[John 3:16; Proverbs 30:4]</comments></point>
+      <point><text>our Lord</text><comments title="Jesus Christ, the greatest mystery God has ever revealed">[John 20:28]</comments></point>
+    </line>
+    <line>
+      <point><text>Who was conceived by the Holy Ghost,</text><comments title="The mystery of the Incarnation of Jesus Christ">[Luke 1:35]</comments></point>
+      <point><text>born of the virgin Mary</text><comments title="Christmas">[Luke 1:27]</comments></point>
+    </line>
+    <line>
+      <point><text>Suffered under Pontius Pilate;</text><comments title="The New Testament in secular history">[Luke 23:23-25]</comments></point>
+      <point><text>was crucified,</text><comments title="†he cross">[John 19:20; Acts 4:10]</comments></point>
+      <point><text>died,</text><comments title="Jesus Christ, the only sacrifice that reconciles God and *Man">[1 Corinthians 15:3]</comments></point>
+      <point><text>and was buried;</text><comments title="The empty tomb of Jesus Christ">[1 Corinthians 15:4]</comments></point>
+      <point><text>He descended into Hell</text><comments title="Jesus Christ between death and resurrection">[1 Peter 3:18; Luke 23:43]</comments></point>
+    </line>
+    <line>
+      <point><text>On the third day He rose again from the dead</text><comments title="Easter">[1 Corinthians 15:4]</comments></point>
+    </line>
+    <line>
+      <point><text>He ascended into heaven,</text><comments title="Our Brother is with our Father">[Mark 16:19; Luke 24:51; Acts 1:11]</comments></point>
+      <point><text>and is seated</text><comments title="Jesus Christ, the high priest who sat down">[Mark 16:19; Hebrews 1:3]</comments></point>
+      <point><text>at the right hand of God the Father Almighty</text><comments title="Our inheritance in Christ Jesus">[]</comments></point>
+    </line>
+    <line>
+      <point><text>From there He will come back</text><comments title="The unanticipated return of Jesus Christ in glory and triumph">[]</comments></point>
+      <point><text>to judge the living and the dead</text><comments title="Jesus Christ as judge of all">[2 Timothy 4:1; John 5:22]</comments></point>
+    </line>
+    <line>
+      <point><text>I believe in the Holy Ghost</text><comments title="The comforting presence of the Holy Spirit">[John 15:26; 16:7-8, 13-14; Acts 13:2]</comments></point>
+    </line>
+    <line>
+      <point><text>I believe in the universal Church;</text><comments title="The one global ecclesia of Jesus Christ">[Galatians 3:26-29]</comments></point>
+      <point><text>the communion of the saints</text><comments title="The mystical relationship of all Christians">[Revelation 19:14; Hebrews 10:25]</comments></point>
+    </line>
+    <line>
+      <point><text>The forgiveness of sins</text><comments title="The Grace of God in Jesus Christ">[Luke 7:48]</comments></point>
+    </line>
+    <line>
+      <point><text>The resurrection</text><comments title="The resurrected life in Jesus Christ">[1 Thessalonians 4:16; John 6:39]</comments></point>
+      <point><text>of the body</text><comments title="The bodily resurrection of Christians at the end of this age">[]</comments></point>
+    </line>
+    <line>
+      <point><text>And the life everlasting. Amen.</text><comments title="Eternal life in Christ Jesus our Lord">[John 10:28; 17:2-3]</comments></point>
+    </line>
+  </section>
+</creed>
