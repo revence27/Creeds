@@ -17,6 +17,12 @@
           Volumes organised by creed, wherefore four volumes: Apostles’, Nicene, Syncretistic-Protestant, Post-Protestant. They would get bigger as they go.
           In the course, a lectionary for this theology.
           Why “theory” in “Christianity Theory”.
+          Rulings are special sections in the commentary.
+          Liturgy
+          Doxology
+          Hymnody
+          Lectionary
+          Calendar and Contemporary Feast Days
   </description>
 </introduction>
 <keywords>
@@ -145,4 +151,10 @@
       <point><text>And the life everlasting. Amen.</text><comments title="Eternal life in Christ Jesus our Lord">[John 10:28; 17:2-3]</comments></point>
     </line>
   </section>
+</creed>
+<creed name="Nicene Creed">
+</creed>
+<creed name="25 Articles of Religion">
+</creed>
+<creed name="Post-Protestant Christian Faith">
 </creed>
