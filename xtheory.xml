@@ -1,0 +1,34 @@
+<?xml charset="utf-8" version="1.0" ?>
+<!--
+     Structured XML for generating books based on creed XML files.
+-->
+<introduction title="Christianity Theory">
+  <dedication>
+    For Revence Ruairidh Musana Kalibwani, by whom I understood the seriousness of <span class="gk">τον υιον αυτου τον μονογενη</span>, “his Son, the only-begotten.”
+    <blockquote cite="St. Augustine">
+      Surely what Cicero says comes straight from the heart of all fathers, when he wrote: “You are the only man of all men whom I would wish to surpass me in all things.”
+    </blockquote>
+  </dedication>
+  <description>
+          Book structure, implications.
+          New Testament
+          Creeds, commentary, scriptural references.
+          Rulings—structures of responses to certain (rhetorical) questions—all of which, together, make up the Catechism of the book.
+          Systematic theology
+          Unique theology for a unique people. A systematic theology out of which answers can be got for all the questions a 21st century child could ever ask. We are only dealing with fundamental issues here: how to think, for instance, rather than how to think about X or what to decide about Y. This is not just “jurispudence.” It is a life theory. It is the axioms of the tradition of Christianity that preserves the truth. For this reason, then, this life theory is also Christianity theory. The “rulings” provided show how this theory could be used in real life by a suitably-Spirit-filled individual to decide on a contemporary question.
+          Volumes organised by creed, wherefore four volumes: Apostles’, Nicene, Syncretistic-Protestant, Post-Protestant. They would get bigger as they go.
+          In the course, a lectionary for this theology.
+          Why “theory” in “Christianity Theory”. The modern -logy. Just the theory, not the practice.
+          Rulings are special sections in the commentary.
+          Written codes are fundamentally insufficient and idolatrous. God’s commands are a private, one-on-One, spirit-to-Spirit relationship with diverse visible effects on us and through us on others. This relationship is Christian life.
+          Liturgy
+          Doxology
+          Hymnody
+          Lectionary
+          Calendar and Contemporary Feast Days
+  </description>
+</introduction>
+<creed src="apostles.xml" type="text/xml+commentaryxml"></creed>
+<creed src="nicene.xml" type="text/xml+commentaryxml"></creed>
+<creed src="25articles.xml" type="text/xml+commentaryxml"></creed>
+<creed src="post-christian.xml" type="text/xml+commentaryxml"></creed>

@@ -1,0 +1,16 @@
+<?xml charset="utf-8" version="1.0" ?>
+<!--
+     Structured XML for generating books based on creed XML files.
+-->
+<introduction lang="en" title="The First Christian Creed">
+  <description>
+          Creed
+          Scripture
+          Liturgy
+          Doxology
+          Hymnody
+          Lectionary
+          Calendar and Contemporary Feast Days
+  </description>
+</introduction>
+<creed src="apostles.xml" type="text/xml+commentaryxml"></creed>

@@ -1,0 +1,88 @@
+<?xml charset="utf-8" version="1.0" ?>
+<!--
+     Structured XML for creeds. Enables referencing particular parts of Scripture from specific points in the creeds. Enables a commentary to be generated from this and automatically typeset into a Bible for printing. A commentary-paired Bible is what I am hoping to manage, with the commentary being creedal in nature (generated from creeds, generating creeds). This XML has to work together with certain scripts which will enable correction, testing, reformatting, and orderly changing of the structure of this book.
+
+        1 cor 15
+        apostle’s creed
+        1 john
+        nicene creed
+        romans
+        25 articles
+
+        infra-calvinist presbyterian "There is no need to speculate about the will of God, even if we were confident that with the Scriptures we could do so successfully. Arminianism is an identical mistake in the opposite direction. (The correct answer doesn’t matter, in other words. Anyway a theology is only one part of the mystery of the Gospel, and now we all see through a glass darkly. It is gnostic to make theology almost as important as the Theos Himself.) Here is a Presbyterianism that doesn’t try to read God’s mind."
+        wesleyan "The best development of infra-Calvinist Christianity."
+        post-protestant "We all hold to sola scripturist traditions."
+        non-normative rulings "We do not issue laws in our rulings, but rather classifications. Informative rulings just pronounce the correct Christian-Theoretical answer to inform the conscience of the sinner that he may seek grace, and to guide the decision of the saint that he may choose the better thing."
+        legitimate mysticism "The irreducible individuality of each relationship with God. Everyone who has believed in the risen Christ has a gospel in him. Only Paul’s is canon and universal, but we all have one. Mysticism is the search for your gospel."
+        septuagint "The Christian Bible"
+        old testament gospels "Proto-Christian activity by the OT Prophets (emphasising LXX fidelity)"
+        lxx "Christian scriptural mysticism: masorah, gemmatria, and other devices of fastidious textual transmission."
+        canon-recognition "Axiomatic (constitutional) documents, and how faith in Scripture affects the Canon.”
+        fideistic textual criticism "Critical texts and the revealed extremes of the discipline. LXX+(TR1894÷W•H): Septuagint for the Old Testament, the back-translated Textus Receptus 1894 for Christological witness, and the Westcott-Hort NT to represent the tradition of conservative glossing."
+        creeds as third testament "The Evolving Testament"
+        creationist "Believing in a particular creative moment for everything other than God, with God the Father being the Creator through the Son exclusively according to the will of His Spirit."
+        anti-darwinian  "The undecidable problems of any formal Darwinian evolutionary theory. Evolution is necessarily true; Darwinian evolutionary theories, however, are necessarily wrong."
+        anti-bergsonian "Not creative evolution, but evolving creation. In essence, evolution comes after the species, not before."
+        fideist
+        fideism
+        abrahamic theism "The ancient philosophy of pure faith in the God of Genesis 18, and how it disables all expressions other than hope and love."
+        kierkegaard
+        kierkegaardian
+        anti-positivist "Faith justifies logic; deep faith justifies deep logic; faith in Christ reliberates reason, because “he has condemned sin in the flesh.”"
+        gödelian deutero-rationalism "Faith as the Class in NBG set theory"
+        kurt gödel
+        kuyper
+        kuyperian
+        abraham kuyper  "There is no square inch in all of a Christian’s life over which Christ doesn’t scream ‘MINE!’"
+        christian-nationalist "The Christian constitutional republic, a first draft"
+        common grace and common theology  "Common grace, and common human culture."
+        catechism "Catechism is the study of the rulings of a Christian tradition."
+        home-schooling  "Ruling on the importance of children learning to live life in the context of a Christian homestead."
+        anti-islamic  "Recognise Islam as the spirit of the anti-Christ, and as a manifestation of the anti-Christian entity warned against in 1 John, the ultimate of the pastoral epistles."
+        counter-islamic "Safeguard against Islam in particular, and actively seek to undermine Islam wherever it survives."
+        defensive-violent-pacifist  "Ruling on pacifism, self-defence, non-violence, and the right to bear arms."
+        pro-girardian christology "The truth in René Girard’s non-violent conclusions doesn’t enjoin non-violence on all saints at all times, even though it does make possible a non-violent life philosophy through Jesus Christ."
+        exclusively-militia-based community defence "Going Swiss on community defence."
+        exclusively-homestead-based social organisation "Organise the homestead, interface with the society"
+        territorial christianity  "Explicitly-Christian territories as a goal. The flag, the motto."
+        battle of dongola
+        dongola
+        makuria
+        kingdom of makuria
+        pro-jewish  "They have been blinded to Abrahamic Theism, which is Christianity Theory. The brotherly duty therefore falls on the Christians who alone have the eyes righteousness enough to see their brotherhood with the children of the bondwoman."
+        pro-israel  "We recognise that the State of Israel is an act of God, and therefore we will never oppose it. Besides that, it is a safe-enough place for the Jews who Gentiles tend to kill in large numbers periodically."
+        anti-rabbinical-judaism "They are all heresies which deny the creeds, and that includes the neo-Pharisaical heresy of Rabbinical Judaism, opposed to us from the very beginning."
+        ecological cycles as the sacred scripture of natural theology "The things we instinctively recognise as a blessing in a fallen creation are cases of common grace, which is the holy writ of natural theology."
+        technology is human "Ruling on the use of technology, even potentially-dangerous and potentially-evil technology."
+        anti-monoculture and anti-gmo  "Ruling on maintaining minimum ecological diversity and general principles of Christian agriculture"
+        anti-nuclear  "Ruling on dangerous toys, dangerous weapons, and artificial risk hazards."
+        peak-oil realism  "Christian community after the age of cheap oil"
+        post-peak-oil christianity "An eschatological-dioptic application of the Long Descent in Christian cultural planning"
+        market economy is the human condition "The poor will always be with us, and so will the rich; therefore so will the opportunities for Christian charity."
+        christian collectivism as also spontaneous fruit of the spirit
+        anti-circumcision "We rule that circumcision is neither necessary nor generally desirable in a Christian culture."
+        anti-abortion "We rule that what a mother recognises as abortion we recognise as murder."
+        pro-monogamy
+        pro-polygamy
+        christianity-supremacism  "The passing of religious traditions that are not explicitly and doctrinally Christian need not be mourned, but celebrated. The mustard seed that grew into a tree that filled the World."
+        crucicentric anthropology "The best of man’s attempts to organise human society will be that whose leaders most submit to the teaching of Christianity. Probably not seen since Acts 4."
+        dioptic eschatology "Exploiting the relevant suspence of Jesus Christ’s eschatological teaching to build fervent long-term Christian communities"
+        culture-building "The 10 Elements of Homestead Culture: children, faithful marriage, family codex, security and defence provisions, food and housing provisions, arts, spoken language, written language, feasts"
+        the homestead as God’s core ecclesia "Where two or three are gathered"
+        the community "Free allied Christian homesteads."
+        bible hermeneutics "The perpetual advantage of an eternal Scripture."
+        creedal hermeneutics "Using (and writing) creeds as tools for interpreting the Bible"
+        dogmatics
+        systematic theology "Consciously or not, every life’s one assured product is this: a systematic theology."
+        hymnology "Hymn as memorisable poetic sermon."
+        hymnody "Designed around my Presbyterian hymnody"
+        doxology "Designed around the Grace"
+        liturgy "Designed around the Our Father"
+        lectionary "Designed around the Gospels and the Acts."
+        calendar and feast days "Contemporary Christian memorials and martyr roll"
+        mystery martyrology "The patterns and spiritual lessons of Christian persecution"
+        the Christianised week "The Lord’s Day (Sunday), Faith day (Monday), Martyrs’ day (Tuesday), Hope day (Wednesday), Grace day (Thursday), Pastoral Epistles day (Friday), Paulist Epistles day (Saturday)"
+        cannabis  "Cannabis and the Christian homestead"
+-->
+<creed name="The Faith of the Children of God">
+</creed>
